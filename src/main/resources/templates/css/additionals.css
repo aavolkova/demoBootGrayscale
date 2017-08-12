@@ -1,0 +1,31 @@
+p{
+    color:darkmagenta;
+}
+
+a{
+    color:yellow;
+}
+
+.intro .intro-body .brand-heading {
+    font-size: 40px;
+    color: lightseagreen;
+}
+
+body{
+    color:green;
+    background-color:blue;
+}
+
+.text-muted{
+    color:red;
+}
+
+.btn-xl{
+    color:blue;
+    background-color:greenyellow;
+    border-style:none;
+}
+
+.header{
+
+}
